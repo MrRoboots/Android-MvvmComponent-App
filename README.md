@@ -156,28 +156,6 @@ mmkv 是腾讯开源的一个轻量级的存储库，用来代替SharedPreferenc
 |-|-|-|-|
 |videoId|当前播放视频的id，从跳转页面视频item中获取|是|无|
 
-## aok下载
-
-![安装密码：darryrzhong](https://upload-images.jianshu.io/upload_images/5549640-50269b69941dd6c3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
--  [安装密码 ： darryrzhong ](https://www.pgyer.com/Pedw)
-
-
-## 项目地址 
-- # **[Android-MvvmComponent-App](https://github.com/darryrzhong/Android-MvvmComponent-App)**
-
-
-欢迎关注作者[darryrzhong](http://www.darryrzhong.xyz),更多干货等你来拿哟.
-
-### 请赏个小红心！因为你的鼓励是我写作的最大动力！
->更多精彩文章请关注
-- [个人博客:darryrzhong](http://www.darryrzhong.xyz)
-- [掘金](https://juejin.im/user/5a6c3b19f265da3e49804988)
-- [简书](https://www.jianshu.com/users/b7fdf53ec0b9/timeline)
-- [SegmentFault](https://segmentfault.com/u/darryrzhong_5ac59892a5882/articles)
-- [慕课网手记](https://www.imooc.com/u/6733207)
-
-
 
 
 
